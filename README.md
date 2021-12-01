@@ -10,6 +10,9 @@ Import numpy into the editor
 Input the co-ordinates to calculate the distance between them.
 ### Step 3: 
 Substitute the values in the distance formula.
+
+
+
 ![formula](formula.png)
 ### Step 4: 
 Print the solution.
