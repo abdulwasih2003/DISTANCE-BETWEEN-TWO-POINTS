@@ -34,4 +34,4 @@ print("{:.2f}".format(value))
 ![output](img.png)
 
 ### RESULT:
-The distance between the two points is displayed sucessfully.
+The distance between the two points is displayed successfully.
